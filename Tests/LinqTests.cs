@@ -107,7 +107,7 @@ namespace Tests
             }
         }
 
-        [Fact]
+        //[Fact]
         public void HidParseTest()
         {
             using (var s = Config.SessionFactory.OpenSession())
